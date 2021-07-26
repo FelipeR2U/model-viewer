@@ -1,0 +1,11 @@
+commit 38570908ba793488a836613dd3ea5468f3560bc3
+Author: Samaneh <3915613+asemanh@users.noreply.github.com>
+Date:   Mon Jul 26 17:01:22 2021 -0400
+
+    Added MorphStressTest to the fidelity tests (#2583)
+    
+    * Added MorphStressTest to the fidelity tests
+    
+    * Updated the screenshots, babylon is white
+    
+    * fixed babylon
